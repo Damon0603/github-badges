@@ -10,3 +10,4 @@ A repo to collect GitHub achievements and make my profile look awesome.
 - [ ] **Pair Extraordinaire** — Co-author a commit
 - [ ] **Galaxy Brain** — Get an accepted answer in Discussions
 - [ ] **Starstruck** — Get stars on a repo
+- [ ] **Arctic Code Vault** — Contribute to archived repos
