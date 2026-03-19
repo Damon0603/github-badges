@@ -9,3 +9,4 @@ A repo to collect GitHub achievements and make my profile look awesome.
 - [ ] **Pull Shark** — Get 2 PRs merged
 - [ ] **Pair Extraordinaire** — Co-author a commit
 - [ ] **Galaxy Brain** — Get an accepted answer in Discussions
+- [ ] **Starstruck** — Get stars on a repo
